@@ -10,4 +10,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=11jolek11&show_icons=true&theme=nord)
+# StackOverflow Activity
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
+
+![11jolek11's github stats](https://github-readme-stats.vercel.app/api?username=11jolek11&show_icons=true&theme=nord)
