@@ -5,11 +5,9 @@
 - 💬 Ask me about anything you want!
 - 😄 Pronouns: He/His
 
-### Tools I use:
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudiocode.svg">
-
 ## My skills
-[![My Skills](https://skillicons.dev/icons?i=py,git,java,js,linux,postgres,aws,c,django,docker,flask,figma,fastapi,html,maven,mysql,postman,pytorch,sqlite,selenium,tensorflow,vim,vscode&perline=3)](https://skillicons.dev)
+<!-- https://github.com/tandpfun/skill-icons -->
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,django,fastapi,flask,java,spring,git,js,html,css,linux,postgres,aws,c,docker,figma,mysql,sqlite,selenium&perline=3)](https://skillicons.dev)
 
 <!-- # StackOverflow Activity -->
 <!-- STACKOVERFLOW:START -->
