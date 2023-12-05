@@ -7,7 +7,7 @@
 
 ## My skills
 <!-- https://github.com/tandpfun/skill-icons -->
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,django,flask,java,spring,c,js,css,html,linux,postgres,aws,docker,git,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,django,flask,java,spring,c,js,css,linux,postgres,aws,docker,git,figma&theme=dark)](https://skillicons.dev)
 
 <!-- # StackOverflow Activity -->
 <!-- STACKOVERFLOW:START -->
