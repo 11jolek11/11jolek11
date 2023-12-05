@@ -8,6 +8,8 @@
 ### Tools I use:
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudiocode.svg">
 
+## My skills
+[![My Skills](https://skillicons.dev/icons?i=py,git,java,js,linux,postgres,aws,c,django,docker,flask,figma,fastapi,html,maven,mysql,postman,pytorch,sqlite,selenium,tensorflow,vim,vscode&perline=3)](https://skillicons.dev)
 
 <!-- # StackOverflow Activity -->
 <!-- STACKOVERFLOW:START -->
