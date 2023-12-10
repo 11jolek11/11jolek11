@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate with other devs
 - 💬 Ask me about anything you want!
-- 😄 Pronouns: He/His
 
 ## My skills
 <!-- https://github.com/tandpfun/skill-icons -->
