@@ -1,6 +1,6 @@
 ### Hi! I'm Andrzej 
-- 🔭 I’m currently working on ... I'm studying, so I don't have time for projects
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ... Kotlin
 - 👯 I’m looking to collaborate with other devs
 - 💬 Ask me about anything you want!
 
